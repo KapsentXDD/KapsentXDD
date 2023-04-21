@@ -16,3 +16,5 @@
 </br>
 
 [![Discord Profile](https://lanyard.cnrad.dev/api/943902274894311434)](https://discord.com/users/943902274894311434)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fia3th48hckottr3ol6rctnsc&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fia3th48hckottr3ol6rctnsc&redirect=true)
