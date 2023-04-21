@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=KapsentXDD&color=blue"/>
+</div>
 <h1 align="center">🖥 Hi I'm Kapsênt#3734</h1>
 <p align="center">
  <a href="https://discord.com/users/943902274894311434" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
