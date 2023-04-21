@@ -15,10 +15,11 @@
 <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 </br>
 
+[![Discord Profile](https://lanyard.cnrad.dev/api/943902274894311434)](https://discord.com/users/943902274894311434)
+
 ##
 <span> 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KapsentXDD" width="%100" height="200px"
 </p>
 </span>
-[![Discord Profile](https://lanyard.cnrad.dev/api/943902274894311434)](https://discord.com/users/943902274894311434)
